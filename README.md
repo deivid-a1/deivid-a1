@@ -4,7 +4,7 @@
   <br>
   <h1>Hello there! 👋</h1>
   <p>
-    👉 My name is Nícolas, and I'm a software engineering student at the University of Brasilia. Take a look at the projects I participated in! nice to meet you! 
+    👉 My name is Deivid, and I'm a software engineering student at the University of Brasilia. Take a look at the projects I participated in! nice to meet you! 
   </p>
 </div>
 </br></br>
