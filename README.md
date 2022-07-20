@@ -1,11 +1,14 @@
 <div>
   <img width="220" align="left" 
        src="https://derpicdn.net/img/2012/9/2/88509/large.png"/>
+    <img width="220" align="right"
+       src = "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/SeasonalRank7-5.png/revision/latest?cb=20190130003041"/>
   <br>
   <h1>Hello there! 👋</h1>
   <p>
     👉 My name is Deivid, and I'm a software engineering student at the University of Brasilia. Take a look at the projects I participated in! nice to meet you! 
   </p>
+  
 </div>
 </br></br>
 
